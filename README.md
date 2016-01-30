@@ -28,6 +28,11 @@ The class must have the following types of validation:
 
 I made the class mapping all the static methods on the base constructor. I also used the module exports to give the assign the class to a global property for easy object handling across the scopes.
 
-Basically, I designed the class as a helper class for any type of validation. I also used the JsDoc for better readability and documentation. 
+Basically, I designed the class as a helper class for any type of validation. I also used the JsDoc for better readability and documentation. You can also use it for any project without any licensing but will be nice to mention me. :) Also you can generate the JsDoc automated documentation.
 
 Anyone is free to fork and develop.
+
+## Resources
+
+- you can find the class in validationHelper.js
+- you can find the usage in test.js
